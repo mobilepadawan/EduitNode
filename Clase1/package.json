@@ -1,0 +1,17 @@
+{
+  "name": "eduitnode",
+  "version": "1.0.0",
+  "description": "Curso de node y mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alumnos",
+  "license": "ISC",
+  "dependencies": {
+    "@arteysoft/asyncforloop": "^1.0.0",
+    "faker": "^5.5.3",
+    "underscore": "^1.13.1",
+    "uuid": "^8.3.2"
+  }
+}
